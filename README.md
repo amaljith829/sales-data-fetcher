@@ -20,7 +20,7 @@ npm install
 API_URL=your_api_url_here
 
 4.Run the script:
-node script.js
+node fetchSalesData.js
 
 5.To view stored data in SQLite:
 sqlite3 sales_data.db "SELECT * FROM sales_data;"
