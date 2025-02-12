@@ -4,7 +4,7 @@ This script fetches sales data from an API and stores it in an SQLite database.
 
 ## Requirements
 - Node.js installed
-- SQLite installed (optional, if you want to browse the database)
+- SQLite installed 
 - Git installed
 
 ## Setup Instructions
